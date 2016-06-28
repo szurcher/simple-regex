@@ -1,0 +1,8 @@
+build/
+*.egg-info
+simple-regex.py
+regex.log
+tags
+__pycache__
+*.pyc
+*.egg

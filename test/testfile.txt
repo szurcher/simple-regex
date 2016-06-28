@@ -1,0 +1,4 @@
+asd;lfsdf "images/portfolio/automic/automic-th-350x350.png", a;dfadf
+and then there were five "images/portfolio/automic/automic-350x350.png",a;sdjf;as ;klj0 "images/portfolio/rbc-rewards/display-th-rbc-rewards.png",
+<tests>of stuff</tests> but quotes don't matter ;ldsfjasdfasdfasdf images/portfolio/rbc-rewards/display-rbc-rewards.png",
+images/portfolio/rbc-rewards/display-rbc-rewards-th.pngand some other stuff
