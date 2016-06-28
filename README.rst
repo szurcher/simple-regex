@@ -31,7 +31,7 @@ From the simple-regex directory, run::
 Built-in Help
 =============
 
-If you run ```simple-regex -h``` you will get the following help output::
+If you run ``simple-regex -h`` you will get the following help output::
 
     usage: simple-regex.py [-h] [-x [DEBUG]] find replace infile [outfile]
 
@@ -53,6 +53,6 @@ Notes
 
 * Use single quotes (') around find and replace patterns to avoid shell expansion.
 
-* ```outfile``` is there for convenience.  By default output is sent to STDOUT, but if you specify an outfile it will receive the text with replacements instead.  ```infile``` is required as the program does **not** read STDIN.
+* ``outfile`` is there for convenience.  By default output is sent to STDOUT, but if you specify an outfile it will receive the text with replacements instead.  ``infile`` is required as the program does **not** read STDIN.
 
-* By default DEBUG level is ERROR and regex.log will be empty.  If you set ```-x INFO``` you will get a lot of (probably useless) info about where the program found matches.
+* By default DEBUG level is ERROR and regex.log will be empty.  If you set ``-x INFO`` you will get a lot of (probably useless) info about where the program found matches.
