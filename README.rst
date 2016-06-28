@@ -56,3 +56,9 @@ Notes
 * ``outfile`` is there for convenience.  By default output is sent to STDOUT, but if you specify an outfile it will receive the text with replacements instead.  ``infile`` is required as the program does **not** read STDIN.
 
 * By default DEBUG level is ERROR and regex.log will be empty.  If you set ``-x INFO`` you will get a lot of (probably useless) info about where the program found matches.
+
+* The program is licensed under the `BSD 2-Clause license`__. See the LICENSE_ file for details.  If there is a discrepancy between the LICENSE_ file and this README, the LICENSE_ takes precedence.
+
+.. _LICENSE: LICENSE
+
+__ LICENSE_
